@@ -1,4 +1,6 @@
-package Singleton;
+package Singleton.lazy;
+
+import Singleton.lazy.LazySingleton;
 
 public class T implements Runnable {
     @Override

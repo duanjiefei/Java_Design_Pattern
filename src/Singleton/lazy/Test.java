@@ -1,4 +1,6 @@
-package Singleton;
+package Singleton.lazy;
+
+import Singleton.lazy.T;
 
 public class Test {
     public static void main(String[] args) {
